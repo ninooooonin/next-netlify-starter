@@ -8,5 +8,5 @@
 
 
 [plugins.inputs.linkCommands]
-  "Go to dashboard" = '/dashboard' // relative link
-  "Go to stack overflow" = 'https://stackoverflow.com' // aboslute link
+  "Go to dashboard" = '/dashboard'
+  "Go to stack overflow" = 'https://stackoverflow.com'
